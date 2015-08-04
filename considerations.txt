@@ -1,0 +1,7 @@
+Bootstrap eCommerce template acquired through startbootstrap.com. Distributed under Apache 2.0 license and downloaded July 28th, 2015
+Original template creator IronSummitMedia aka davidmiller via github.com/IronSummitMedia/startbootstrap
+Template guest author Maks Surguy, creator of Bootsnipp.
+*This template has been heavily modified by Oliver Brancov
+
+
+
