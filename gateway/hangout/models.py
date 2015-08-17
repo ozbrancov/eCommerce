@@ -9,8 +9,7 @@ import base
 
 # Create your models here.
 class Hangout(models.Model):
-	__tablename__ = "hangout"
-
+	id = models.IntegerField(primary_key=True, null=False)
 	title = models.CharField(max_length=120, null=False, blank=False)
 	status = models.TextField(null=True, blank=True)
 	price = models.DecimalField(decimal_places=2, max_digits=100, default=0.00)
